@@ -1,0 +1,9 @@
+tensorflow
+numpy
+pandas
+matplotlib
+datetime
+websocket
+talib
+pandas_datareader 
+python-binance

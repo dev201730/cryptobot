@@ -1,0 +1,4 @@
+
+1. Create account on Binance and enter credentials on credentials.py
+2. Install python packages on requirements.txt
+3. BOT uses the following indicators: RSI, Fibonacci Levels, Moving Average Price, Stop Loss
